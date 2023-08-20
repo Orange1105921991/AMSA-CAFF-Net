@@ -26,6 +26,7 @@ Figure 4: Prediction results of AMSA-CAFF Net on the CARPK dataset. The first co
 # Installation
 
 Python 3.6
+
 Pytorch 1.7.1
 
 
